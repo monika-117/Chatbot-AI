@@ -2,7 +2,7 @@
 
 The AI Chatbot is a web-based application that allows users to interact with an intelligent virtual assistant directly from their browser. Users can type messages, and the chatbot responds with relevant answers, simulating a conversational experience. This project leverages HTML for structure, CSS for styling, and JavaScript for functionality and AI-like responses.
 
-# Objectives:
+### Objectives:
 
 1.Create an interactive chatbot interface on a webpage.
 
@@ -12,7 +12,7 @@ The AI Chatbot is a web-based application that allows users to interact with an 
 
 4.Introduce basic AI-like behavior using JavaScript logic (can later be enhanced with APIs like OpenAI for real AI responses).
 
-# Key Features:
+### Key Features:
 
 1.User-friendly chat interface: Input box for typing messages, send button, and scrollable chat history.
 
@@ -22,7 +22,7 @@ The AI Chatbot is a web-based application that allows users to interact with an 
 
 4.Dynamic interaction: Messages from the user appear in the chat window in real time.
 
-# Optional enhancements:
+### Optional enhancements:
 
 1.Use of local storage to save chat history.
 
@@ -30,7 +30,7 @@ The AI Chatbot is a web-based application that allows users to interact with an 
 
 3.Typing animation for bot messages to simulate real conversation.
 
-# Technology Stack:
+### Technology Stack:
 
 HTML: Structure of the chat window, input box, and buttons.
 
@@ -38,7 +38,7 @@ CSS: Styling the chatbot interface, chat bubbles, animations, and responsive lay
 
 JavaScript: Handling user input, generating bot responses, updating the chat window dynamically.
 
-# Project Flow:
+### Project Flow:
 
 ➤User opens the web page and sees the chat interface.
 
@@ -52,7 +52,7 @@ JavaScript: Handling user input, generating bot responses, updating the chat win
 
 ➤Conversation continues interactively.
 
-# Expected Outcome:
+### Expected Outcome:
 
 ➤A fully functional chatbot interface on a web page.
 
@@ -62,7 +62,7 @@ JavaScript: Handling user input, generating bot responses, updating the chat win
 
 ➤A foundation for adding more complex AI features in the future.
 
-# Optional Extensions:
+### Optional Extensions:
 
 Voice-to-text input for messages.
 
@@ -72,7 +72,7 @@ Theme toggle (dark/light mode) for the chat interface.
 
 Storing conversation history across sessions.
 
-# How to Fetch Your API Key from Google AI Studio?
+### How to Fetch Your API Key from Google AI Studio?
 
 ➤Sign In to Google AI Studio
 
@@ -80,7 +80,7 @@ Storing conversation history across sessions.
 
 ➤Create a New Project
 
-➤Click on “New Project”.
+➤Click on dashboard
 
 ➤Enter a descriptive project name and configure any required settings.
 
@@ -88,7 +88,7 @@ Storing conversation history across sessions.
 
 <img width="1919" height="1075" alt="Screenshot 2026-01-26 174813" src="https://github.com/user-attachments/assets/aef08d90-a220-4d24-bb3b-cb2be899f511" />
 
-# Enable API Access
+### Enable API Access
 
 ➤Within your project dashboard, navigate to the API & Services section.
 
@@ -106,7 +106,7 @@ Storing conversation history across sessions.
 
 <img width="1919" height="1003" alt="Screenshot 2026-01-26 175224" src="https://github.com/user-attachments/assets/36b43eb1-4322-41c8-860b-c864f8757b20" />
 
-# How to get URL?
+### How to get URL?
 
 ➤Click on get started
 

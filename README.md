@@ -86,33 +86,38 @@ Storing conversation history across sessions.
 
 ➤Save the project.
 
-➤Enable API Access
+<img width="1919" height="1075" alt="Screenshot 2026-01-26 174813" src="https://github.com/user-attachments/assets/aef08d90-a220-4d24-bb3b-cb2be899f511" />
+
+# Enable API Access
 
 ➤Within your project dashboard, navigate to the API & Services section.
-
-➤Locate the AI API you wish to use (e.g., Generative AI, Text-to-Image, or Chat API).
 
 ➤Click Enable to activate API access for your project.
 
 ➤Generate an API Key
 
-➤Go to the Credentials tab under API & Services.
-
 ➤Click Create Credentials → API Key.
 
-➤A unique API key will be generated.
-
-➤Secure Your API Key
-
 ➤Copy the API key and store it securely.
-
-➤Avoid sharing your API key publicly or committing it to version control systems.
 
 ➤Use the API Key in Your Project
 
 ➤Open your project’s config.js (or equivalent configuration file).
 
-➤Paste the API key in the designated field to enable API calls.
+<img width="1919" height="1003" alt="Screenshot 2026-01-26 175224" src="https://github.com/user-attachments/assets/36b43eb1-4322-41c8-860b-c864f8757b20" />
+
+# How to get URL?
+
+➤Click on get started
+
+<img width="1912" height="1057" alt="Screenshot 2026-01-26 180738" src="https://github.com/user-attachments/assets/492bb2b3-3bc2-4ab0-925c-ec8515a25010" />
+
+➤ click on API Reference and copy the url from Authentication
+
+<img width="1919" height="1077" alt="Screenshot 2026-01-26 180950" src="https://github.com/user-attachments/assets/3226e1e7-a5a0-4197-9546-84ea06841312" />
+
+
+
 
 
 

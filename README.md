@@ -2,6 +2,8 @@
 
 The AI Chatbot is a web-based application that allows users to interact with an intelligent virtual assistant directly from their browser. Users can type messages, and the chatbot responds with relevant answers, simulating a conversational experience. This project leverages HTML for structure, CSS for styling, and JavaScript for functionality and AI-like responses.
 
+[LIVE DEMO](http://127.0.0.1:5500/index.html)
+
 ### Objectives:
 
 1.Create an interactive chatbot interface on a webpage.

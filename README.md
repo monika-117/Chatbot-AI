@@ -349,7 +349,7 @@ export const API_KEY = "YOUR_API_KEY";
 
 ### Getting Started
 
-To get started with the **Chatbot-AI***, follow these steps:
+To get started with the **Chatbot-AI**, follow these steps:
 
 1. **Clone the Repository**
    ```

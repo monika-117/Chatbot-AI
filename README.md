@@ -343,6 +343,23 @@ userInput.addEventListener("keypress", (e) => {
 export const API_KEY = "YOUR_API_KEY";
 
 ```
+### Desktop Preview
+
+<img width="1919" height="1094" alt="Screenshot 2026-01-26 182118" src="https://github.com/user-attachments/assets/499c7434-d4fa-4df6-9bef-cb34b0b9c5c6" />
+
+### Getting Started
+
+To get started with the **Chatbot-AI***, follow these steps:
+
+1. **Clone the Repository**
+   ```
+   git clone https://github.com/monika-117/Chatbot-AI/.git
+   cd Chatbot-AI/
+   ```
+
+2. **Open in Your Browser**
+   Open `index.html` in your preferred web browser.
+
 
 
 

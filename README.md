@@ -349,7 +349,7 @@ export const API_KEY = "YOUR_API_KEY";
 
 <img width="1919" height="1094" alt="Screenshot 2026-01-26 182118" src="https://github.com/user-attachments/assets/499c7434-d4fa-4df6-9bef-cb34b0b9c5c6" />
 
-## ⚙️ Jenkins CI/CD Pipeline
+##  Jenkins CI/CD Pipeline
 
 This project uses Jenkins to automate the CI/CD process, including
 checking out code from GitHub, validating project files, performing
@@ -436,6 +436,7 @@ pipeline {
         }
     }
 }
+```
 
 ### Getting Started
 
@@ -449,22 +450,3 @@ To get started with the **Chatbot-AI**, follow these steps:
 
 2. **Open in Your Browser**
    Open `index.html` in your preferred web browser.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
